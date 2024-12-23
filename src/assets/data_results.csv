@@ -1,0 +1,336 @@
+City,State,Count,Max Distance
+Chandler,AZ,118,46.0
+Oceanside,CA,88,31.0
+Kansas City,MO,163,143.0
+Yonkers,NY,166,32.0
+Jurupa Valley,CA,19,9.0
+Escondido,CA,73,44.0
+Elgin,IL,495,39.0
+Hayward,CA,79,21.0
+Virginia Beach,VA,133,109.0
+Little Rock,AR,271,181.0
+Anchorage,AK,998,2129.0
+Brockton,MA,116,34.0
+Davenport,IA,143,182.0
+Tallahassee,FL,238,184.0
+San Antonio,TX,648,110.0
+Springfield,MO,345,203.0
+Peoria,AZ,25,68.0
+Athens,GA,262,103.0
+Huntsville,AL,297,152.0
+Columbus,OH,709,111.0
+Stamford,CT,208,49.0
+Chattanooga,TN,289,120.0
+Knoxville,TN,686,164.0
+Pomona,CA,72,9.74
+Houston,TX,434,46.0
+Bakersfield,CA,134,128.0
+New Haven,CT,130,75.0
+St. Louis,MO,767,172.0
+Carmel,IN,240,127.0
+Carlsbad,CA,43,19.0
+Lee's Summit,MO,74,104.0
+Detroit,MI,172,55.0
+Suffolk,VA,41,148.0
+Columbia,MO,191,149.0
+Palm Bay,FL,160,99.0
+Arvada,CO,70,30.0
+Naperville,IL,466,36.0
+Kansas City,KS,128,139.0
+Boston,MA,154,20.0
+Visalia,CA,111,100.0
+Fort Collins,CO,201,91.0
+Irving,TX,128,18.0
+Inglewood,CA,97,14.0
+Everett,WA,363,40.0
+Nashville,TN,296,148.0
+Gainesville,FL,284,103.0
+Yuma,AZ,181,244.0
+Bellevue,WA,240,18.0
+Hollywood,FL,30,11.0
+Buffalo,NY,921,100.0
+Orange,CA,41,9.0
+Salt Lake City,UT,513,236.0
+Manchester,NH,318,75.0
+Baltimore,MD,605,63.0
+Lowell,MA,221,46.0
+Orlando,FL,942,54.0
+Baton Rouge,LA,166,127.0
+Lubbock,TX,124,161.0
+Lancaster,CA,75,59.0
+Fort Wayne,IN,295,116.0
+Ventura,CA,67,62.0
+Fullerton,CA,142,10.0
+Sacramento,CA,280,29.0
+Stockton,CA,97,60.0
+Lynn,MA,97,48.0
+Springfield,MA,201,88.0
+Antioch,CA,53,22.0
+Green Bay,WI,394,192.0
+Concord,NC,211,122.0
+West Valley City,UT,93,174.0
+Lakewood,NJ,172,73.0
+Saint Paul,MN,320,104.0
+Waco,TX,135,133.0
+San Diego,CA,294,19.0
+Waterbury,CT,168,84.0
+Corona,CA,34,16.0
+Santa Clara,CA,123,43.0
+Phoenix,AZ,303,19.0
+Newark,NJ,79,28.0
+Oakland,CA,111,23.0
+Philadelphia,PA,898,57.0
+Rancho Cucamonga,CA,35,28.0
+New York,NY,202,29.0
+Conroe,TX,237,74.0
+Laredo,TX,114,226.0
+Cedar Rapids,IA,208,162.0
+Providence,RI,284,67.0
+Fremont,CA,90,30.0
+St. George,UT,220,376.0
+Jacksonville,FL,388,127.0
+Abilene,TX,89,148.0
+Lincoln,NE,159,257.0
+Lakeland,FL,238,77.0
+Denton,TX,155,45.0
+Round Rock,TX,279,76.0
+Springfield,IL,204,142.0
+Eugene,OR,233,165.0
+Quincy,MA,54,18.0
+Arlington,TX,150,34.0
+Independence,MO,84,127.0
+Joliet,IL,207,56.0
+Boulder,CO,136,48.0
+Moreno Valley,CA,85,60.0
+Newport News,VA,139,93.0
+Milwaukee,WI,628,113.0
+Santa Clarita,CA,83,46.0
+Garden Grove,CA,86,11.0
+Billings,MT,486,598.0
+Tacoma,WA,505,40.0
+Lexington,KY,276,129.0
+Tuscaloosa,AL,95,150.0
+Fayetteville,AR,307,165.0
+Hesperia,CA,32,80.0
+Olathe,KS,98,118.0
+New Braunfels,TX,155,73.0
+Santa Ana,CA,49,7.0
+Jackson,MS,137,168.0
+Colorado Springs,CO,377,91.0
+Grand Prairie,TX,82,37.0
+Henderson,NV,247,283.0
+Ontario,CA,68,13.0
+Rockford,IL,173,95.0
+West Covina,CA,89,19.0
+San Mateo,CA,98,22.0
+Pasadena,CA,69,14.0
+Rialto,CA,39,12.0
+Clearwater,FL,145,90.0
+North Charleston,SC,112,126.0
+Jersey City,NJ,576,16.0
+Des Moines,IA,266,174.0
+Cape Coral,FL,242,100.0
+Macon,GA,138,141.0
+Pompano Beach,FL,57,25.0
+High Point,NC,69,42.0
+Norman,OK,175,210.0
+McAllen,TX,443,293.0
+Honolulu,HI,205,3847.0
+South Bend,IN,407,115.0
+Hillsboro,OR,205,35.0
+Buckeye,AZ,22,28.0
+El Paso,TX,283,420.0
+Minneapolis,MN,679,100.0
+Allen,TX,42,25.0
+Dayton,OH,346,100.0
+Berkeley,CA,262,22.0
+Santa Maria,CA,91,84.0
+Huntington Beach,CA,35,6.0
+Pasadena,TX,124,60.0
+Lafayette,LA,130,164.0
+Washington,DC,420,46.0
+Bend,OR,86,194.0
+Grand Rapids,MI,543,148.0
+Burbank,CA,117,19.0
+Plano,TX,67,9.0
+Bridgeport,CT,200,76.0
+Oklahoma City,OK,353,199.0
+Anaheim,CA,31,12.0
+Coral Springs,FL,43,28.0
+Gilbert,AZ,108,46.0
+Pittsburgh,PA,980,88.0
+Fontana,CA,33,6.63
+Brownsville,TX,77,53.0
+Dallas,TX,238,29.0
+Omaha,NE,309,168.0
+Evansville,IN,218,181.0
+Clarksville,TN,266,183.0
+Meridian,ID,66,125.0
+Elk Grove,CA,58,78.0
+Salinas,CA,89,70.0
+Broken Arrow,OK,120,159.0
+Glendale,AZ,177,21.0
+Provo,UT,197,254.0
+Tucson,AZ,347,169.0
+Savannah,GA,275,170.0
+Concord,CA,59,17.0
+Tulsa,OK,228,148.0
+Boise,ID,271,351.0
+Fishers,IN,174,88.0
+Lewisville,TX,72,24.0
+Chicago,IL,990,22.0
+Renton,WA,161,17.0
+Miami,FL,206,210.0
+Louisville,KY,412,132.0
+Port St. Lucie,FL,110,87.0
+Lansing,MI,363,99.0
+Sterling Heights,MI,328,67.0
+Goodyear,AZ,8,40.0
+Pembroke Pines,FL,13,14.0
+Cleveland,OH,444,121.0
+Spokane,WA,534,352.0
+Cambridge,MA,232,32.0
+Charleston,SC,95,124.0
+Columbus,GA,146,136.0
+Tyler,TX,214,153.0
+Frisco,TX,87,18.0
+Edinburg,TX,48,90.0
+Las Cruces,NM,88,243.0
+Palmdale,CA,31,25.0
+Davie,FL,36,10.0
+Augusta,GA,259,174.0
+Salem,OR,246,78.0
+Murfreesboro,TN,207,125.0
+Kent,WA,155,26.0
+Glendale,CA,290,14.0
+Murrieta,CA,41,16.0
+Gresham,OR,117,43.0
+Montgomery,AL,120,155.0
+Vacaville,CA,34,36.0
+Miami Gardens,FL,35,13.0
+Elizabeth,NJ,45,29.0
+Birmingham,AL,235,142.0
+Fayetteville,NC,214,122.0
+Vallejo,CA,46,27.0
+Portland,OR,492,35.0
+Cary,NC,113,54.0
+San Bernardino,CA,91,46.0
+Costa Mesa,CA,35,7.0
+Long Beach,CA,134,20.0
+Hialeah,FL,63,27.0
+Westminster,CO,124,13.0
+Edison,NJ,178,42.0
+El Monte,CA,49,11.0
+Ann Arbor,MI,275,66.0
+Miramar,FL,6,5.0
+Sparks,NV,81,208.0
+Hampton,VA,88,171.0
+Madison,WI,440,123.0
+San Jose,CA,282,45.0
+Denver,CO,444,21.0
+Torrance,CA,63,12.0
+Surprise,AZ,52,43.0
+Fargo,ND,467,345.0
+Garland,TX,93,42.0
+Santa Rosa,CA,104,102.0
+Simi Valley,CA,94,21.0
+Greensboro,NC,154,119.0
+Los Angeles,CA,101,22.0
+Woodbridge,NJ,54,29.0
+Alexandria,VA,477,53.0
+Akron,OH,489,109.0
+Aurora,IL,82,43.0
+Norfolk,VA,152,21.0
+Irvine,CA,165,32.0
+Menifee,CA,131,61.0
+Albuquerque,NM,241,343.0
+Mesquite,TX,63,48.0
+North Las Vegas,NV,73,66.0
+Indianapolis,IN,496,130.0
+Beaumont,TX,125,126.0
+Winston-Salem,NC,208,123.0
+Durham,NC,145,111.0
+Centennial,CO,184,29.0
+Warren,MI,103,55.0
+Pueblo,CO,78,164.0
+Austin,TX,409,99.0
+Temecula,CA,59,72.0
+New Orleans,LA,232,120.0
+Reno,NV,228,119.0
+Riverside,CA,70,31.0
+South Fulton,GA,208,63.0
+Richmond,VA,541,135.0
+Corpus Christi,TX,143,189.0
+Modesto,CA,178,89.0
+Rochester,MN,246,134.0
+Toledo,OH,316,94.0
+Amarillo,TX,96,329.0
+Syracuse,NY,566,186.0
+Scottsdale,AZ,27,17.0
+Downey,CA,125,14.0
+Sugar Land,TX,202,61.0
+Mesa,AZ,148,23.0
+Sunnyvale,CA,90,23.0
+McKinney,TX,96,49.0
+Wichita,KS,237,236.0
+Sandy Springs,GA,540,53.0
+Columbia,SC,273,151.0
+Chula Vista,CA,223,105.0
+Oxnard,CA,40,54.0
+Albany,NY,455,144.0
+Topeka,KS,120,136.0
+Pearland,TX,66,59.0
+Tampa,FL,357,94.0
+Fresno,CA,125,88.0
+Charlotte,NC,525,128.0
+College Station,TX,111,99.0
+Sioux Falls,SD,203,304.0
+Wilmington,NC,297,134.0
+Wichita Falls,TX,144,179.0
+Palm Coast,FL,252,105.0
+New Bedford,MA,137,82.0
+Rio Rancho,NM,158,406.0
+West Palm Beach,FL,134,151.0
+Paterson,NJ,137,31.0
+Greeley,CO,65,28.0
+Aurora,CO,97,28.0
+Odessa,TX,54,315.0
+Fort Lauderdale,FL,46,9.0
+West Jordan,UT,204,39.0
+Midland,TX,37,169.0
+Richardson,TX,112,12.0
+Tempe,AZ,201,21.0
+Hartford,CT,301,75.0
+Seattle,WA,703,19.0
+Richmond,CA,52,25.0
+Memphis,TN,389,215.0
+Vancouver,WA,199,47.0
+Raleigh,NC,405,119.0
+El Cajon,CA,94,89.0
+Cincinnati,OH,542,93.0
+Thousand Oaks,CA,24,24.0
+Chico,CA,148,174.0
+Nampa,ID,110,452.0
+Roseville,CA,249,116.0
+Las Vegas,NV,384,270.0
+Victorville,CA,56,78.0
+Rochester,NY,455,138.0
+Carrollton,TX,75,11.0
+Lakewood,CO,174,25.0
+Clovis,CA,40,111.0
+St. Petersburg,FL,171,69.0
+Fairfield,CA,34,12.0
+Fort Worth,TX,386,49.0
+Allentown,PA,465,75.0
+League City,TX,197,72.0
+Overland Park,KS,108,121.0
+Shreveport,LA,212,255.0
+Killeen,TX,137,123.0
+Chesapeake,VA,83,176.0
+Mobile,AL,493,182.0
+Atlanta,GA,383,52.0
+Spokane Valley,WA,261,363.0
+Peoria,IL,249,171.0
+Worcester,MA,220,54.0
+Thornton,CO,107,30.0
+Dearborn,MI,231,36.0
